@@ -2,7 +2,7 @@
 module.exports = {
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx}',
-    // './src/stories/**/*.{js,ts,jsx,tsx,mdx}',
+    './src/stories/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
     screens: {
