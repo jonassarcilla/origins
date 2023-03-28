@@ -5,6 +5,7 @@
     "source.fixAll": true,
     "source.organizeImports": true
   },
+  "css.lint.unknownAtRules": "ignore",
   "cSpell.words": [
     "codenames",
     "colour",
